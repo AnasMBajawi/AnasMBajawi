@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm AnasMBajawi
+# Hi there! 👋 I'm Anas Bajawi
 
 ## 🚀 About Me
 Hello there! 👋 I'm Anas, a backend wizard who thrives on crafting clean, efficient, and scalable solutions. With a love for logic and a knack for debugging, I specialize in **Node.js** and **Spring Boot** to create applications that don’t just work but *wow*. 
